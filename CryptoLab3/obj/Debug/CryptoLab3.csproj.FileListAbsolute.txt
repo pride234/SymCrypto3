@@ -1,0 +1,7 @@
+C:\Users\PRIDE\source\repos\CryptoLab3\CryptoLab3\bin\Debug\CryptoLab3.exe.config
+C:\Users\PRIDE\source\repos\CryptoLab3\CryptoLab3\bin\Debug\CryptoLab3.exe
+C:\Users\PRIDE\source\repos\CryptoLab3\CryptoLab3\bin\Debug\CryptoLab3.pdb
+C:\Users\PRIDE\source\repos\CryptoLab3\CryptoLab3\obj\Debug\CryptoLab3.csprojAssemblyReference.cache
+C:\Users\PRIDE\source\repos\CryptoLab3\CryptoLab3\obj\Debug\CryptoLab3.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE\source\repos\CryptoLab3\CryptoLab3\obj\Debug\CryptoLab3.exe
+C:\Users\PRIDE\source\repos\CryptoLab3\CryptoLab3\obj\Debug\CryptoLab3.pdb
